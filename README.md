@@ -4,7 +4,7 @@
 throw std::exception(":troll:");
 ```
 
-Hey, I'm currently studying computer science, and currently i'm second semester on this.
+Hey, I'm currently studying computer science, and currently i'm second semester on this. \
 My favorite language was:
 - Typescript
 - C#
